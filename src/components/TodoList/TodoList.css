@@ -1,0 +1,8 @@
+.section-wrapper {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.todo-list {
+	list-style: decimal;
+}
